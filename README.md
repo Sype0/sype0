@@ -1,1 +1,1 @@
-![GitHub](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sype0&show_icons=true&rank_icon=github)
